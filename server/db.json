@@ -1,0 +1,70 @@
+{
+    "contacts": [
+        {
+            "id": "D6BNdWnHI",
+            "name": "Brad Gibson",
+            "company": "YouTube",
+            "email": "brad@gmail.com",
+            "title": "Youtuber",
+            "mobile": "9876546787",
+            "photo": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=1380&t=st=1698109785~exp=1698110385~hmac=05cacdc7bb2d4b98065d16a177ae27014072cb66e8fa2f66e68cc340cb29dfaf",
+            "groupId": "4"
+        },
+        {
+            "id": "TVobxeKbI",
+            "name": "Glenda Kim",
+            "company": "SomeCorp",
+            "email": "glenda@gmail.com",
+            "title": "Freelancer",
+            "mobile": "8880009991",
+            "photo": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=1380&t=st=1698109785~exp=1698110385~hmac=05cacdc7bb2d4b98065d16a177ae27014072cb66e8fa2f66e68cc340cb29dfaf",
+            "groupId": "2"
+        },
+        {
+            "id": "UyEDV5Yds",
+            "name": "Ryan Dillon",
+            "company": "Enterprise & Co.",
+            "email": "ryan@gmail.com",
+            "title": "Plumber",
+            "mobile": "3654325647",
+            "photo": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=1380&t=st=1698109785~exp=1698110385~hmac=05cacdc7bb2d4b98065d16a177ae27014072cb66e8fa2f66e68cc340cb29dfaf",
+            "groupId": "4"
+        },
+        {
+            "id": "DytUHGb8ju",
+            "name": "Owen Lim",
+            "company": "SomeCorp",
+            "email": "owen@gmail.com",
+            "title": "Plumber",
+            "mobile": "9010309130",
+            "photo": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=1380&t=st=1698109785~exp=1698110385~hmac=05cacdc7bb2d4b98065d16a177ae27014072cb66e8fa2f66e68cc340cb29dfaf",
+            "groupId": "4"
+        }
+    ],
+    "groups": [
+        {
+            "id": "1",
+            "name": "Colleague"
+        },
+        {
+            "id": "2",
+            "name": "Friend"
+        },
+        {
+            "id": "3",
+            "name": "Family"
+        },
+        {
+            "id": "4",
+            "name": "Service"
+        },
+        {
+            "id": "5",
+            "name": "Community"
+        },
+        {
+            "id": "6",
+            "name": "Social"
+        }
+    ]
+}
